@@ -596,7 +596,6 @@
   .facility-card p{font-size:13px; color:var(--slate);}
 
   /* ---------- PROSA (historia / propuesta) ---------- */
-  .prose-block{max-width:70ch;}
   .prose-block p{font-size:15px; color:var(--ink); opacity:0.9; margin-bottom:16px;}
   .prose-block p:last-child{margin-bottom:0;}
 
